@@ -1,0 +1,1 @@
+wget  --limit-rate 300k -P C:\Users\saraf\Desktop\zippyshare-scraper-master\downloads -nc -i links.txt

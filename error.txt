@@ -1,0 +1,6 @@
+wget -P C:\Users\saraf\Desktop\zippyshare-scraper-master\downloads -nc -i links.txt
+--2020-04-13 07:02:29--  https://www26.zippyshare.com/d/4lHrrXXp/20068/TL-SMMA2.0.zip.116
+Resolving www26.zippyshare.com (www26.zippyshare.com)... 46.166.139.184
+Connecting to www26.zippyshare.com (www26.zippyshare.com)|46.166.139.184|:443... connected.
+HTTP request sent, awaiting response... 500 Internal Server Error
+2020-04-13 07:02:30 ERROR 500: Internal Server Error.
